@@ -9,3 +9,67 @@
 "testRectangleOutput","3
 8
 4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1–3):  Enter the length: Enter the width: Area of the rectangle: 32.00","PASS","2025-06-27 11:29:03"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-07-01 17:14:00"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-07-01 17:14:00"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-07-01 17:14:00"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-07-01 17:18:17"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-07-01 17:18:17"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-07-01 17:18:17"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-07-01 17:19:27"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-07-01 17:19:27"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-07-01 17:19:27"
+"testCircleOutput","1
+5","Area of the circle: 78.54","--- Shape Area Calculator --- 1. Calculate area of a Circle 2. Calculate area of a Triangle 3. Calculate area of a Rectangle 4. Exit Enter your choice: Enter the radius: Area of the circle: 78.541","PASS","2025-07-01 17:21:38"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","--- Shape Area Calculator --- 1. Calculate area of a Circle 2. Calculate area of a Triangle 3. Calculate area of a Rectangle 4. Exit Enter your choice: Enter the base: Enter the height: Area of the triangle: 30.00","PASS","2025-07-01 17:21:38"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-07-01 17:21:38"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-07-01 17:21:38"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-07-01 17:21:38"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","--- Shape Area Calculator --- 1. Calculate area of a Circle 2. Calculate area of a Triangle 3. Calculate area of a Rectangle 4. Exit Enter your choice: Enter the length: Enter the width: Area of the rectangle: 32.00","PASS","2025-07-01 17:21:38"
+"testCircleOutput","1
+5","Area of the circle: 78.54","--- Shape Area Calculator --- 1. Calculate area of a Circle 2. Calculate area of a Triangle 3. Calculate area of a Rectangle 4. Exit Enter your choice: Enter the radius: Area of the circle: 78.541","PASS","2025-07-01 17:23:20"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","--- Shape Area Calculator --- 1. Calculate area of a Circle 2. Calculate area of a Triangle 3. Calculate area of a Rectangle 4. Exit Enter your choice: Enter the base: Enter the height: Area of the triangle: 30.00","PASS","2025-07-01 17:23:20"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-07-01 17:23:20"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-07-01 17:23:20"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-07-01 17:23:20"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","--- Shape Area Calculator --- 1. Calculate area of a Circle 2. Calculate area of a Triangle 3. Calculate area of a Rectangle 4. Exit Enter your choice: Enter the length: Enter the width: Area of the rectangle: 32.00","PASS","2025-07-01 17:23:20"
+"testCircleOutput","1
+5","Area of the circle: 78.54","--- Shape Area Calculator --- 1. Calculate area of a Circle 2. Calculate area of a Triangle 3. Calculate area of a Rectangle 4. Exit Enter your choice: Enter the radius: Area of the circle: 78.541","PASS","2025-07-01 17:24:43"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","--- Shape Area Calculator --- 1. Calculate area of a Circle 2. Calculate area of a Triangle 3. Calculate area of a Rectangle 4. Exit Enter your choice: Enter the base: Enter the height: Area of the triangle: 30.00","PASS","2025-07-01 17:24:43"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-07-01 17:24:43"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-07-01 17:24:43"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-07-01 17:24:43"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","--- Shape Area Calculator --- 1. Calculate area of a Circle 2. Calculate area of a Triangle 3. Calculate area of a Rectangle 4. Exit Enter your choice: Enter the length: Enter the width: Area of the rectangle: 32.00","PASS","2025-07-01 17:24:43"
+"testCircleOutput","1
+5","Area of the circle: 78.54","--- Shape Area Calculator --- 1. Calculate area of a Circle 2. Calculate area of a Triangle 3. Calculate area of a Rectangle Enter your choice (1-3): Enter the radius: Area of the circle: 78.54","PASS","2025-07-01 17:33:15"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","--- Shape Area Calculator --- 1. Calculate area of a Circle 2. Calculate area of a Triangle 3. Calculate area of a Rectangle Enter your choice (1-3): Enter the base: Enter the height: Area of: 30.00","FAIL","2025-07-01 17:33:15"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-07-01 17:33:15"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-07-01 17:33:15"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-07-01 17:33:15"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","--- Shape Area Calculator --- 1. Calculate area of a Circle 2. Calculate area of a Triangle 3. Calculate area of a Rectangle Enter your choice (1-3): Enter the length: Enter the width: Area: 32.00","FAIL","2025-07-01 17:33:15"
+"testCircleOutput","1
+5","Area of the circle: 78.54","--- Shape Area Calculator --- 1. Calculate area of a Circle 2. Calculate area of a Triangle 3. Calculate area of a Rectangle 4. Exit Enter your choice: Enter the radius: Area of the circle: 78.541","PASS","2025-07-01 17:33:47"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","--- Shape Area Calculator --- 1. Calculate area of a Circle 2. Calculate area of a Triangle 3. Calculate area of a Rectangle 4. Exit Enter your choice: Enter the base: Enter the height: Area of the triangle: 30.00","PASS","2025-07-01 17:33:47"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-07-01 17:33:47"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-07-01 17:33:47"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-07-01 17:33:47"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","--- Shape Area Calculator --- 1. Calculate area of a Circle 2. Calculate area of a Triangle 3. Calculate area of a Rectangle 4. Exit Enter your choice: Enter the length: Enter the width: Area of the rectangle: 32.00","PASS","2025-07-01 17:33:47"
